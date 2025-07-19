@@ -1,4 +1,5 @@
-Medical Equipment Inventory Tracker
+__________Medical Equipment Inventory Tracker__________
+
 Hi there! 
 This is a full-stack Medical Equipment Inventory Dashboard I built using Next.js, MongoDB, and OpenAI. It’s designed to help track, manage, and interact with hospital inventory — everything from adding new items to visualizing data, and even asking AI questions about your equipment stock.
 
